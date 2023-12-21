@@ -2,23 +2,20 @@
   "name": "simplefolio",
   "version": "1.0.1",
   "private": "true",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "a portfolio website",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cobiwave/simplefolio"
+    "type": "",
+    "url": ""
   },
   "keywords": [],
   "author": "Jacobo Martinez",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cobiwave/simplefolio/issues"
-  },
-  "homepage": "https://github.com/cobiwave/simplefolio#readme",
+  "homepage": "",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.8.2",
